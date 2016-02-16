@@ -1,0 +1,6 @@
+C:\Work\Imprima\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Work\Imprima\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Work\Imprima\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Work\Imprima\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Work\Imprima\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Work\Imprima\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
